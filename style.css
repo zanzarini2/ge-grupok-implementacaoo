@@ -1,0 +1,49 @@
+.imagem-cabecalho{
+    width: 100%;
+}
+
+.imagem-banner{
+    width: 30%
+}
+
+.introducao{
+    display: flex;
+    justify-content: space-around;
+}
+
+.texto-introducao{
+    width: 58%;
+    
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.tema{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.premiacao{
+    display: flex;
+    justify-content: space-around;
+}
+
+.imagem-premiacao{
+    width: 40%;
+}
+
+.texto-premiacao{
+    width: 50%;
+}
+
+.imagem-rodape{
+    width: 30%;
+}
+
+.rodape{
+    background-color: green;
+    text-align: center;
+}
